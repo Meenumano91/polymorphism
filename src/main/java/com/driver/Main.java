@@ -29,6 +29,7 @@ public class Main {
         System.out.println("Product of two doubles: "+p.product(3.5,4.6));
 
         System.out.println("Product of two doubles: "+p.product(3.9,4.6));
+        System.out.println("Product of two doubles: "+p.product(3.34,4.6));
     }
 
 
